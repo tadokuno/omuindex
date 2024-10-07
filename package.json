@@ -1,0 +1,23 @@
+{
+  "name": "omuindex",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "omuriceindex"
+  },
+  "author": "Tadashi",
+  "license": "ISC",
+  "description": "",
+  "type": "module",
+  "dependencies": {
+    "@google-cloud/vertexai": "^1.5.0",
+    "@line/bot-sdk": "^9.2.2",
+    "dotenv": "^16.4.5",
+    "openai": "^4.56.0",
+    "zod": "^3.23.8"
+  }
+}

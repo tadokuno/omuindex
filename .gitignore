@@ -1,0 +1,6 @@
+# .envファイルを無視する
+.env
+
+
+# Local Netlify folder
+.netlify
